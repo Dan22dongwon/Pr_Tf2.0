@@ -1,3 +1,6 @@
 Tensorflow 2.0 활용 연습
 
-1. Mnist
+[1]. TF와 신경망 기초
+01. Mnist
+
+02. IMDb 감정분석
