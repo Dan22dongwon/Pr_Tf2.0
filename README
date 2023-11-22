@@ -19,3 +19,6 @@ Tensorflow 2.0 활용 연습
  - 과적합을 피하기 위한 규제화 적용
 2. 배치 정규화의 이해
 3. 초매개변수 튜닝과 AotoML
+
+>> 참고자료
+https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow-and-Keras-3rd-edition/tree/main/Chapter_1
