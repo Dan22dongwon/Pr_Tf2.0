@@ -4,5 +4,7 @@ Tensorflow 2.0 활용 연습
 01. Mnist
 01.01 기본신경망
 01.02 은닉층으로 개선
+01.03 드롭아웃으로 단순신경망 개선
+01.04 다른 최적기 테스트(Optimizer: RMSprop,Adam)
 
 02. IMDb 감정분석
